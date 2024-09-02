@@ -1,0 +1,49 @@
+<body class="layout--single">
+  {{ insert masthead.html }}
+  <div class="initial-content">
+    <div id="main" role="main">
+      <div class="sidebar sticky">
+        <div itemscope itemtype="https://schema.org/Person">
+          <div class="author__avatar">
+            <img src="\myphoto.jpg" alt="name" itemprop="name">
+          </div>
+          <div class="author__content">
+            <h3 class="author__name" itemprop="name">Brady Elster</h3>
+            <p class="author__bio" itemprop="description">Author</p>
+          </div>
+          <div class="author__urls-wrapper">
+            <button class="btn btn--inverse">Follow</button>
+            <ul class="author__urls social-icons">
+              <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place"  style="display: flex; align-items: center; margin-bottom: 10px;">
+                <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> 
+                <span itemprop="name" style="margin-left: 4px;">Auburn, AL</span>
+              </li>
+              <li style="display: flex; align-items: center; margin-left: 4px;">
+                <a href="mailto:belster@auburn.edu" rel="nofollow noopener noreferrer">
+                  <i class="fa fa-envelope" style="font-size:14px; margin-right: 4px;" aria-hidden="true"></i>  Email
+                </a>
+              </li>
+              <li style="display: flex; align-items: center;">
+                <a href="https://twitter.com/bradyelster" rel="nofollow noopener noreferrer">
+                  <i class="fab fa-fw fa-twitter-square" aria-hidden="true" style="margin-right: 0px;"></i> Twitter
+                </a>
+              </li>
+              <li style="display: flex; align-items: center;">
+                <a href="https://github.com/bradyelster" rel="nofollow noopener noreferrer">
+                  <i class="fab fa-fw fa-github" aria-hidden="true" style="margin-right: 0px;"></i> GitHub
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    
+
+<!--Add ORCID ID icon-->
+<!--
+<li style="display: flex; align-items: center; margin-bottom: 8px;">
+    <a href="https://orcid.org/0009-0009-4851-1356" rel="nofollow noopener noreferrer" style="text-decoration: none;">
+      <i class="fa-brands fa-orcid" aria-hidden="true" style="margin-right: 8px;"></i> ORCID
+    </a>
+</li>
+-->
