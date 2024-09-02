@@ -10,9 +10,11 @@ tags = ["notes", "plasma"]
 
 # Plasma Physics
 
-*Coming soon!*
-
+* [tokamaks](https://bradyelster.github.io/notes/tokamaks.md)
+* [stellarators](https://bradyelster.github.io/notes/stellarators.md)
+* [tearing modes](https://bradyelster.github.io/notes/tearing.md)
 
 # Mathematics
+
 
 *Coming soon!*
