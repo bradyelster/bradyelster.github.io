@@ -10,7 +10,7 @@ tags = ["cv", "resume"]
 
 # My Current Resume
 
-[Click here to view](https://bradyelster.github.io/files/Resume_Sept1_2024.pdf)
+[Click here to view](/_assets/files/Resume_Sept1_2024.pdf)
 
 <!--
 <!DOCTYPE html>

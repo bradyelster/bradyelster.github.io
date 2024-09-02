@@ -16,7 +16,8 @@ We begin with the reduced MHD equations
     \rho \partial_{t} = \grad p_{1} + \vec{J}_{1} \times \vec{B} + \vec{J} \times \vec{B}_{1}
 \end{aligned}
 
-[main notes page](https://bradyelster.github.io/mynotes.md)
+[stellarators](/_assets/notes/stellarators.md)
+
 
 ## Linear Tearing Modes
 
