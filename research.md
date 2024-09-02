@@ -11,6 +11,7 @@ tags = ["research", "research group", "auburn", "theory"]
 # Fusion Theory at Auburn University
 
 Advisor: Luca Guazzotto
+
 Group Members: Gabriel Woodbury Saudeau, Ian Gustafson
 
 # My Dissertation Work
