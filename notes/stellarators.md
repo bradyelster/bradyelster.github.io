@@ -12,4 +12,6 @@ tags = ["stellarators", "design", "devices", "quasisymmetry"]
 
 *Coming Soon!*
 
-[tearing](/_assets/notes/tearing.md)
+[image](./tearing.md)
+![image](./tearing.md)
+[markdown](/notes/tearing.md)

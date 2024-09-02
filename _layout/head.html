@@ -7,13 +7,13 @@
 -->
 <html lang="en">
 <head>
+  <link rel="shortcut icon" type="image/x-icon" href="/blah.png">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{if hasmath}} {{insert head_katex.html }}     {{end}}
   {{if hascode}} {{insert head_highlight.html }}   {{end}}
   {{insert style.html}}
   {{isdef title}} <title>{{fill title}}</title>  {{end}}
-  <link rel="shortcut icon" type="image/x-icon" href="/letter-b3-16px.png">
   <!-- end custom head snippets -->
 </head>
 {{insert body_layout.html}}

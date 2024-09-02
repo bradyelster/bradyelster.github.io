@@ -10,11 +10,10 @@ tags = ["notes", "plasma"]
 
 # Plasma Physics
 
-* [tokamaks](/_assets/notes/tokamaks.md)
-* [stellarators](/_assets/notes/stellarators.md)
-* [tearing modes](/_assets/notes/tearing.md)
+* [tokamaks](/notes/tokamaks.md)
+* ![stellarators](/notes/stellarators.md)
+* ![tearing modes](/notes/tearing.md)
 
 # Mathematics
-
 
 *Coming soon!*
