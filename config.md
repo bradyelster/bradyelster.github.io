@@ -7,7 +7,7 @@ mintoclevel = 2
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
 # please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
-prepath = "bradyelster/bradyelster.github.io"
+# prepath = "blog"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
@@ -16,10 +16,10 @@ prepath = "bradyelster/bradyelster.github.io"
 ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = true
-website_title = "Brady's Website"
-website_descr = "Brady's Website using Franklin"
-website_url   = "https://bradyelster.github.io/"
+# generate_rss = true
+# website_title = "Brady's Website"
+# website_descr = "Brady's Website using Franklin"
+# website_url   = "https://bradyelster.github.io/blog"
 +++
 
 <!--
