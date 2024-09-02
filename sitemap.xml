@@ -8,6 +8,24 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>notes/tearing/index.html</loc>
+    <lastmod>2024-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>myblog/index.html</loc>
+    <lastmod>2024-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>mynotes/index.html</loc>
+    <lastmod>2024-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>notes/tokamaks/index.html</loc>
     <lastmod>2024-09-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -21,12 +39,6 @@
 </url>
 <url>
     <loc>notes/stellarators/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>notes/index.html</loc>
     <lastmod>2024-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -51,12 +63,6 @@
 </url>
 <url>
     <loc>franklin/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>blog/index.html</loc>
     <lastmod>2024-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
