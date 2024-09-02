@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Franklin Template  ]]>
+    </title>
+    <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
+    <description>
+      <![CDATA[  Example website using Franklin  ]]>
+    </description>
+    <atom:link
+      href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Current CV  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/myresume/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/myresume/index.html </guid>
+  <description>
+    <![CDATA[  My embedded resume/CV. Last updated: Setpember 1, 2024  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Brady Elster</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Publications  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/publications/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/publications/index.html </guid>
+  <description>
+    <![CDATA[  List of my research publications and activity. Last updated: Setpember 1, 2024  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Brady Elster</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Research  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/research/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/research/index.html </guid>
+  <description>
+    <![CDATA[  Sharing my PhD research with the world. Last updated: Setpember 2, 2024  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Brady Elster</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Posts  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/blog/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/blog/index.html </guid>
+  <description>
+    <![CDATA[  Random posts about whatever. misc stuff and life/job upodates. Last updated: Setpember 1, 2024  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Brady Elster</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Christoffel  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/notes/christoffel/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/notes/christoffel/index.html </guid>
+  <description>
+    <![CDATA[  A short introduction to the Christoffel Symbols of tensor calculus and their uses in physics. Last updated: Setpember 1, 2024  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Brady Elster</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Tokamaks  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/notes/tokamaks/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/notes/tokamaks/index.html </guid>
+  <description>
+    <![CDATA[  Notes on general tokamaks and coordinate systems. Last updated: Setpember 1, 2024  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Brady Elster</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Teaching  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/teaching/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/teaching/index.html </guid>
+  <description>
+    <![CDATA[  All things teaching related. This section for potential jobs in academia. Last updated: Setpember 1, 2024  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Brady Elster</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Notes  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/notes/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/notes/index.html </guid>
+  <description>
+    <![CDATA[  Collection of Notes on Plasma Physics and related topics. Last updated: Setpember 1, 2024  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Brady Elster</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Stellarators  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/notes/stellarators/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/notes/stellarators/index.html </guid>
+  <description>
+    <![CDATA[  Notes on Stellarators. Last updated: Setpember 1, 2024  ]]>
+  </description>  
+    
+  <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Brady Elster</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
