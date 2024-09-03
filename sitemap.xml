@@ -2,26 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>notes/christoffel/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>notes/tearing/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>myblog/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>mynotes/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -33,13 +27,19 @@
 </url>
 <url>
     <loc>myresume/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>notes/stellarators/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>posts/quasipost/index.html</loc>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -57,7 +57,7 @@
 </url>
 <url>
     <loc>research/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -68,8 +68,26 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>index/</loc>
+    <loc>posts/christoffelpost/index.html</loc>
+    <lastmod>2024-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>posts/fieldlinegeopost/index.html</loc>
+    <lastmod>2024-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>christoffel/index.html</loc>
     <lastmod>2024-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>index/</loc>
+    <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>

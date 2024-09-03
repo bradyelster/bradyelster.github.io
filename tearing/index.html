@@ -1,8 +1,19 @@
 <!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
 <html lang="en">
 <head>
+  <link rel="shortcut icon" type="image/x-icon" href="/blah.png">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="/libs/katex/katex.min.css">
+     
+   <link rel="stylesheet" href="/libs/highlight/styles/github.min.css">
+   
   <link rel="stylesheet" href="/css/franklin.css">
 <link rel="stylesheet" href="/css/minimal-mistakes.css">
 <link rel="stylesheet" href="/css/adjust.css">
@@ -22,7 +33,8 @@
 </style>
 <![endif]-->
 
-  <title>Tag: theory</title>
+   <title>Tearing Modes</title>  
+  <!-- end custom head snippets -->
 </head>
 <body class="layout--single">
   <div class="masthead">
@@ -98,17 +110,23 @@
 </li>
 -->
 
-  <div class="">
-    <h1>Tag: theory</h1>
-    <ul><li><a href="/research/">Research</a></li></ul>
-    <div class="page-foot">
-    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Brady Elster. 
+<!-- Content appended here --><div class="franklin-content">
+<div class="franklin-toc"><ol><li><a href="#linear_tearing_modes">Linear Tearing Modes</a><ol><li><a href="#no_equilibrium_flow">No Equilibrium Flow</a></li><li><a href="#shear_radial_flows">Shear &amp; Radial Flows</a></li></ol></li><li><a href="#nonlinear_tearing_modes">Nonlinear Tearing Modes</a></li><li><a href="#magnetic_islands">Magnetic Islands</a></li></ol></div>
+<h1 id="tearing_modes"><a href="#tearing_modes" class="header-anchor">Tearing Modes</a></h1>
+<p>We begin with the reduced MHD equations</p>
+\[\begin{aligned}
+    \rho \partial_{t} = \vec{\nabla} p_{1} + \vec{J}_{1} \times \vec{B} + \vec{J} \times \vec{B}_{1}
+\end{aligned}\]
+<h2 id="linear_tearing_modes"><a href="#linear_tearing_modes" class="header-anchor">Linear Tearing Modes</a></h2>
+<h3 id="no_equilibrium_flow"><a href="#no_equilibrium_flow" class="header-anchor">No Equilibrium Flow</a></h3>
+<h3 id="shear_radial_flows"><a href="#shear_radial_flows" class="header-anchor">Shear &amp; Radial Flows</a></h3>
+<h2 id="nonlinear_tearing_modes"><a href="#nonlinear_tearing_modes" class="header-anchor">Nonlinear Tearing Modes</a></h2>
+<h2 id="magnetic_islands"><a href="#magnetic_islands" class="header-anchor">Magnetic Islands</a></h2>
+<div class="page-foot">
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Brady Elster. Last modified: September 03, 2024.
     Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
 </div>
-
-  </div>
-
-  <!-- close what is opened in body_layout.html -->
+</div><!-- CONTENT ENDS HERE -->
 
       </div> <!-- closure of main -->
     </div>   <!-- closure of class initial--content -->
@@ -120,8 +138,8 @@
         <div class="page__footer-follow">
           <ul class="social-icons">
             <li><strong>Follow:</strong></li>
-            <li><a href="https://twitter.com/mmistakes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-            <li><a href="https://github.com/mmistakes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+            <li><a href="https://twitter.com/bradyelster" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+            <li><a href="https://github.com/bradyelster" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
           </ul>
         </div>
         <div class="page__footer-copyright">&copy; Brady Elster. Powered by <a href="https://github.com/tlienart/Franklin.jl">Franklin</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
@@ -131,5 +149,16 @@
     <script src="/libs/minimal-mistakes/main.min.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
 
-</body>
+    
+        <script src="/libs/katex/katex.min.js"></script>
+<script src="/libs/katex/contrib/auto-render.min.js"></script>
+<script>renderMathInElement(document.body)</script>
+
+    
+    
+        <script src="/libs/highlight/highlight.min.js"></script>
+<script>hljs.highlightAll();hljs.configure({tabReplace: '    '});</script>
+
+    
+  </body>
 </html>
