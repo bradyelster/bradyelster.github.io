@@ -10,10 +10,16 @@ tags = ["notes", "plasma"]
 
 # Plasma Physics
 
-* [tokamaks](/notes/tokamaks.md)
-* ![stellarators](/notes/stellarators.md)
-* ![tearing modes](/notes/tearing.md)
+* [Tokamaks](/notes/tokamaks/)
+* [Stellarators](/notes/stellarators/)
+* [MHD Stability]()
+    * [Tearing Modes (Classical)](/notes/tearing/)
+    * [Tearing Modes (Neoclassical)]()
+    * [Kink Modes]()
+    * [Ballooning Modes]()
+    * [Interchange Modes]()
 
 # Mathematics
-
-*Coming soon!*
+* [Asymptotics & Perturbation Theory]()
+* [Tensor Algebra]()
+* [Tensor Calculus]()

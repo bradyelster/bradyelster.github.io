@@ -16,9 +16,6 @@ We begin with the reduced MHD equations
     \rho \partial_{t} = \grad p_{1} + \vec{J}_{1} \times \vec{B} + \vec{J} \times \vec{B}_{1}
 \end{aligned}
 
-[stellarators](/stellarators.md)
-
-
 ## Linear Tearing Modes
 
 ### No Equilibrium Flow

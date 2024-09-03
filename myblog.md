@@ -10,4 +10,7 @@ tags = ["posts", "blog"]
 
 # Recent Blog Posts
 
-*Coming Soon!*
+* [On Christoffel Symbols in Physics](/posts/christoffelpost/)
+* [On Quasisymmetry](/posts/quasipost/)
+* [On The Geometry of Field Lines](/posts/fieldlinegeopost/)
+

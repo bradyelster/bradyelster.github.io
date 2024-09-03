@@ -10,7 +10,7 @@ tags = ["cv", "resume"]
 
 # My Current Resume
 
-[Click here to view](/_assets/files/Resume_Sept1_2024.pdf)
+View my latest résumé [here](/assets/files/Resume_Sept1_2024.pdf).
 
 <!--
 <!DOCTYPE html>
@@ -24,7 +24,7 @@ tags = ["cv", "resume"]
 </head>
 <body>
     <div class="container">
-        <embed src="/_assets/files/Resume_Sept1_2024.pdf" type="application/pdf" width="100%" height="600px" />
+        <embed src="/assets/files/Resume_Sept1_2024.pdf" type="application/pdf" width="100%" height="600px" />
     </div>
 </body>
 </html>

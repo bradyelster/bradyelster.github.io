@@ -8,9 +8,10 @@ rss_pubdate = Date(2024, 9, 1)
 tags = ["research", "research group", "auburn", "theory"]
 +++
 
+
 # Fusion Theory at Auburn University
 
-Advisor: Luca Guazzotto
+Advisor: [Luca Guazzotto](https://www.auburn.edu/cosam/departments/physics/physics-faculty/guazzotto/index.htm)
 
 Group Members: Gabriel Woodbury Saudeau, Ian Gustafson
 
