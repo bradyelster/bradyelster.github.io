@@ -24,5 +24,5 @@ A more advanced example of where the Christoffel symbols show up is in finding g
 The Christoffel symbols can be computed once elements of the inverse metric tensor are known. Then you multiply those by derivatives of your basis vectors $\frac{\partial\vec{R}}{\partial u^{i}} \equiv \vec{e}_{i}$
 
 \begin{equation}
-    \Gamma_{ij}^{k} = \frac{\partial^{2}{\vec{R}}}{\partial{u}^{i} \partial{u}^{j}} \frac{\partial{\vec{R}}}{\partial{u}^{l}} \mathfrak{g}^{lk} \pderiv[1]{f}{x}
+    \Gamma_{ij}^{k} = \frac{\partial^{2}{\vec{R}}}{\partial{u}^{i} \partial{u}^{j}} \frac{\partial{\vec{R}}}{\partial{u}^{l}} \mathfrak{g}^{lk}
 \end{equation}
