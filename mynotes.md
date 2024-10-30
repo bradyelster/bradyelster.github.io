@@ -12,12 +12,15 @@ tags = ["notes", "plasma"]
 
 * [Tokamaks](/notes/tokamaks/)
 * [Stellarators](/notes/stellarators/)
+* [MHD Equilibrium]()
 * [MHD Stability]()
     * [Tearing Modes (Classical)](/notes/tearing/)
     * [Tearing Modes (Neoclassical)]()
     * [Kink Modes]()
     * [Ballooning Modes]()
     * [Interchange Modes]()
+* [Two-Fluid Equilibrium (FLOW2)]()
+* [Two-Fluid Stability (Upcoming code?)]()
 
 # Mathematics
 * [Asymptotics & Perturbation Theory]()
