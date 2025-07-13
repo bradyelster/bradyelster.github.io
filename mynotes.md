@@ -26,3 +26,6 @@ tags = ["notes", "plasma"]
 * [Asymptotics & Perturbation Theory]()
 * [Tensor Algebra]()
 * [Tensor Calculus]()
+
+# Basic Numerical Methods
+* [Root-finding](/notes/)
