@@ -20,14 +20,16 @@ tags = ["numerical methods"]
 ## Newton's Method
 
 # Order of Convergence
-Let $r$ be the root of our function and $x_{n}$ be the $n$-th approximation ot the root. Then we define the error as 
-\begin{aligned}
+Let $r$ be the root of our function and $x_{n}$ be the $n$-th approximation ot the root. Then we define the error as
+$$
+\begin{equation}
 \epsilon_{n} = r - x_{n}.
-\end{aligned}
+\end{equation}
+$$
 
 For large $n$ we assume the approximate relatonship
-\begin{aligned}
+$$
+\begin{equation}
 |\epsilon_{n+1}| = k |\epsilon_{n}|^{p}
-\end{aligned}
-
-
+\end{equation}
+$$
