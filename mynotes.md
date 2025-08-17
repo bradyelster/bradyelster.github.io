@@ -35,7 +35,7 @@ tags = ["notes", "plasma"]
     * [Truncation Schemes 🪓]()
 * [Collisions 🤜🤛]()
 * [Boltzmann's _Stosszahlansatz_ 😶‍🌫️]()
-* [Dust Acoustic Waves ⌛]()
+* [Dust Acoustic Waves ⌛](/notes/dust_acoustic.md)
 
 # Mathematics
 * [Asymptotics & Perturbation Theory ❤️](/notes/asymptotics/)
