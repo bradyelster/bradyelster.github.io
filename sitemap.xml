@@ -3,7 +3,7 @@
 
 <url>
     <loc>teaching/index.html</loc>
-    <lastmod>2024-09-02</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -32,6 +32,18 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>posts/christoffelpost/index.html</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>notes/dust_acoustic/index.html</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>notes/tearing/index.html</loc>
     <lastmod>2024-09-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -39,7 +51,7 @@
 </url>
 <url>
     <loc>research/index.html</loc>
-    <lastmod>2024-09-03</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -51,6 +63,12 @@
 </url>
 <url>
     <loc>notes/asymptotics/regular_pert/index.html</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>notes/asymptotics/reductivepertmethod/index.html</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
