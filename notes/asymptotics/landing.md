@@ -14,7 +14,7 @@ tags = ["notes", "asymptotics"]
 
 
 # Classical Asymptotic Methods
-* [Regular Perturbation Expansions](/notes/asymptotics/regular_pert.md)
+* [Regular Perturbation Expansions](/notes/asymptotics/regular_pert/)
     * [Optimal Asymptotic Approximation]()
     * [Secular Growth]()
     * [Convergent Series]()
@@ -27,15 +27,15 @@ tags = ["notes", "asymptotics"]
         * [Borel Summation]()
         * [Zeta Summation]()
         * [Generic Summation Methods]()
-        * [Analytic Continuation]()
-        * [Brief Aside on The Casimir Effect]()
+        * [Regularization as Analytic Continuation]()
+        * [Brief Aside on the Casimir Effect]()
     * [Mellin-Barnes Regularization]()
     * [Pade Approximants]()
-*  [Singular Perturbation Expansions](/notes//asymptotics/)
+*  [Singular Perturbation Expansions]()
       *  [Poincare-Lindstedt]()
       *  [Multiple Scales]()
       *  [WKB Theory & Waves]()
-      *  [The "Reductive Perturbation Method"]()
+      *  [The "Reductive Perturbation Method"](/reductivepertmethod/)
       *  [Matched Asymptotics & Boundary Layer Theory]()
       *  [Renomalization]()
             *  [Logarithmic Switchback]()
@@ -44,7 +44,6 @@ tags = ["notes", "asymptotics"]
     * [Kruskal-Newton Diagrams]()
     * [Dominant Balance for Systems of ODEs]()
 * [Global Analysis of Differential Equations]()
-
 
 # Hyperasymptotics (Beyond All Orders)
 * [Stokes Phenomenaon]()

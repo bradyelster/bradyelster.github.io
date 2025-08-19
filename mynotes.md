@@ -15,7 +15,7 @@ tags = ["notes", "plasma"]
 * [MHD Equilibrium 🪨]()
     * [Grad-Shafranov Derivation]()
 * [MHD Stability 🤹‍♂️]()
-    * [Tearing Modes (Classical) 🔥](/notes/tearing/)
+    * [Tearing Modes (Classical) 🔥](/notes/tearing_c/)
     * [Tearing Modes (Neoclassical) 💥]()
     * [Kink Modes (Internal) 🌭]()
     * [Ballooning Modes 🎈]()
@@ -35,10 +35,10 @@ tags = ["notes", "plasma"]
     * [Truncation Schemes 🪓]()
 * [Collisions 🤜🤛]()
 * [Boltzmann's _Stosszahlansatz_ 😶‍🌫️]()
-* [Dust Acoustic Waves ⌛](/notes/dust_acoustic.md)
+* [Dust Acoustic Waves ⌛](/notes/dust_acoustic/)
 
 # Mathematics
-* [Asymptotics & Perturbation Theory ❤️](/notes/asymptotics/)
+* [Asymptotics & Perturbation Theory ❤️](/notes/asymptotics/landing/)
 * [Some Notes on Linear Systems of ODEs]()
 * [Tensor Algebra ➕]()
 * [Tensor Calculus ⛰️]()
@@ -62,7 +62,7 @@ tags = ["notes", "plasma"]
 * [Spinors]()
 
 # Basic Numerical Methods
-* [Root-finding 🌱](/notes/root_finding.md)
+* [Root-finding 🌱](/notes/root_finding/)
 * [Definite & Improper Integrals 🪣]()
 * [Ace Numerical Methods Exams with These Tricks]()
   
