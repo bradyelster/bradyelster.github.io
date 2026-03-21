@@ -10,7 +10,7 @@ tags = ["cv", "resume"]
 
 # My Current Resume
 
-View my latest résumé [here](/assets/files/Resume_Sept1_2024.pdf).
+View my latest résumé [here](/assets/files/Elster_CurrentResume.pdf).
 
 <!--
 <!DOCTYPE html>
